@@ -1,51 +1,47 @@
-# Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
+# Impulso AI Studio — Do Conceito à Realidade com IA Generativa
 
-## 🚀 Introdução
-
-> Woooow! Look at this 👀
-
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
-
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
-
-### Objetivos
-
-1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
-1. **Potfólio de Projetos**:
-    1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
-    2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
-    3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
-1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
-
-### Template
-
-```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+> Projeto educacional desenvolvido para o desafio **Natural ou Fake Natty?**, da [DIO](https://github.com/digitalinnovationone/lab-natty-or-not).
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+
+Este projeto explora a criação de uma imagem **fotorrealista com inteligência artificial generativa** para representar um possível ambiente de trabalho da **Impulso AI Studio**, iniciativa em desenvolvimento dedicada a dashboards, análise de dados, automações e soluções de IA para empresas.
+
+O conceito mostra um profissional em um escritório executivo, diante de dois monitores: um com indicadores e gráficos de análise de dados, outro com um editor de código. A cena é fictícia, inspirada em referências visuais, e **não representa uma fotografia real da sede da empresa nem um produto já comercializado**.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+
+- **DIO Agent no Google Antigravity:** apoio à definição do conceito, refinamento do briefing e condução da atividade.
+- **Ferramenta de geração de imagem acessada durante o projeto:** produção da cena escolhida com assistência de IA generativa. O modelo específico deve ser confirmado no ambiente em que a imagem foi gerada.
+- **ChatGPT:** exploração de alternativas visuais e comparação crítica de resultados.
+- **Engenharia de prompts:** descrição e refinamento de ambiente, sujeito, postura, cores, iluminação e interfaces.
+- **Git e GitHub:** fork do repositório, documentação e apresentação do desafio.
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+
+1. **Definição do objetivo:** criar uma imagem realista para comunicar a proposta visual da Impulso AI Studio.
+2. **Briefing:** escolha de um profissional solo, escritório sofisticado, dois monitores, paleta escura em grafite/preto com azul elétrico, ciano e pequenos alertas vermelhos.
+3. **Geração e experimentação:** utilização de ferramentas de IA generativa para produzir propostas visuais com foco em dashboards, código e ambientação corporativa.
+4. **Avaliação comparativa:** análise das imagens produzidas, observando composição, iluminação, interfaces e fidelidade à referência facial. Foram identificadas limitações na semelhança da pessoa retratada.
+5. **Escolha do resultado:** seleção da imagem que melhor comunicou a atmosfera desejada para a marca, com identificação explícita de sua origem sintética.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
 
-## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
+![Conceito visual gerado por IA para a Impulso AI Studio](impulso_ai_studio_conceito.jpg)
 
-### Exemplos e Insigths
+**Imagem final:** `impulso_ai_studio_conceito.jpg` — conceito visual fictício produzido com IA generativa.
 
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
+A cena apresenta um painel de análise de dados no monitor esquerdo, um editor de código no direito e um ambiente executivo com vista urbana. Os elementos visuais simbolizam a combinação de análise de dados e desenvolvimento de software proposta pela Impulso AI Studio.
 
-## Links Interessantes
+> **Transparência:** o profissional, a sala, os dashboards e os indicadores exibidos na composição são elementos de uma imagem gerada por IA. Não devem ser interpretados como fotografia documental nem como resultados empresariais reais.
 
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
+## 💭 Reflexão
 
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
+Este desafio mostrou que um prompt detalhado ajuda a orientar a criação de imagens convincentes, mas que realismo visual não é sinônimo de fidelidade perfeita: detalhes faciais e textos em interfaces podem apresentar diferenças ou erros. Comparar resultados, reconhecer limitações e declarar o uso de IA são partes importantes do processo criativo.
+
+A atividade também permitiu praticar documentação e publicação de um projeto no GitHub.
+
+---
+
+**Autor:** Vinicius Ferreira  
+**Portfólio:** [GitHub — ViniciusFerreiraRS](https://github.com/ViniciusFerreiraRS)  
+**Desafio:** #LabDIONattyOrNot
